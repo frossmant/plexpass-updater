@@ -5,7 +5,8 @@
 - 1.0) [About](#10-about)
     - 1.1) [Features](#11-features)
     - 1.2) [Downloading](#12-downloading)
-    - 1.3) [Usage](#13-usage)
+    - 1.3) [Configure](#13-configure)
+    - 1.4) [Usage](#14-usage)
 - 2.0) [Licensing](#20-licensing)
 
 
@@ -22,8 +23,19 @@ To download and install just clone this repository using GIT
 ```
 git clone https://github.com/frossmant/plexpass-updater
 ```
+## 1.3) Configure
 
-## 1.3) Usage
+Edit the plexpass-updater.sh script
+```
+vi plexpass-updater.sh
+```
+Re
+
+PLEX_TOKEN=EnterMyPlexPassToken
+
+
+```
+## 1.4) Usage
 
 ```
 OPTIONS:
