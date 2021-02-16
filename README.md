@@ -49,6 +49,7 @@ Just run the script localy on your PLEX Media Server as root to upgrade your ser
 By default the script will skip upgrading the server if you have active streaming sessions from your server.
 
 ## 1.4.1) OPTIONS
+Here are all available arguments/options for this script.
 ```
 OPTIONS:
    force   forcing upgrade even if server has active sessions
