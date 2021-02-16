@@ -3,7 +3,7 @@
 ## Table of contents
 
 - 1.0) [About](#10-about)
-    - 1.1) [Features](#11-downloading)
+    - 1.1) [Features](#11-features)
     - 1.2) [Downloading](#12-downloading)
     - 1.3) [Usage](#13-usage)
 - 2.0) [Licensing](#20-licensing)
