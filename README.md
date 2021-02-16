@@ -29,9 +29,14 @@ Edit the plexpass-updater.sh script
 ```
 vi plexpass-updater.sh
 ```
-Re
+Replace value for the variable PLEX_TOKEN with your own PLEX Pass Token.
 
-PLEX_TOKEN=EnterMyPlexPassToken
+```diff
+-      PLEX_TOKEN=EnterMyPlexPassToken
++      PLEX_TOKEN=xxxxxxxxxxxxxxxxxxxx
+```
+
+
 ## 1.4) Usage
 
 ```
