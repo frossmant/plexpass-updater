@@ -24,22 +24,22 @@ To download and install just clone this repository using GIT
 git clone https://github.com/frossmant/plexpass-updater
 ```
 ## 1.3) Configure
-* Make sure you got your
-[PLEX token](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/ target="_blank").
-[link](url){:target="_blank"}
+* Make sure you've got your plex token key, if not check [this page](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token) out how to get it.
 
-
-Edit the plexpass-updater.sh script
+First edit the plexpass-updater.sh script
 ```
 vi plexpass-updater.sh
 ```
-Replace value for the variable PLEX_TOKEN with your own PLEX Pass Token.
+Now replace the value for variable PLEX_TOKEN with your own PLEX token key.
 
 ```diff
 -      PLEX_TOKEN=EnterMyPlexPassToken
 +      PLEX_TOKEN=xxxxxxxxxxxxxxxxxxxx
 ```
-
+Save and exit out of vi.
+```
+:wq
+```
 
 ## 1.4) Usage
 
