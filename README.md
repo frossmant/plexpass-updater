@@ -9,8 +9,12 @@
 
 
 ## 1.0) About
+plexpass-updater is a bash script for updating Plex Media Server with the latest pre-release versions available to plexpass members.
 
 ## 1.1) Downloading
+```
+git clone https://github.com/frossmant/plexpass-updater # clone this repository to your server using git
+```
 
 ## 1.2) Usage
 
@@ -18,9 +22,6 @@
 OPTIONS:
    force   forcing upgrade even if server has active sessions
 ```
-
-## 1.1) Downloading
-
 
 ## 2.0) Licensing
 
