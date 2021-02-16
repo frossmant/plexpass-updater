@@ -40,7 +40,7 @@ Save and exit out of vi.
 
 ## 1.4) Usage
 
-Just run the script localy on your PLEX Media Server as root to upgrade your server.
+Just run the script locally on your PLEX Media Server as root to upgrade your server.
 
 ```
 ./plexpass-updater.sh
