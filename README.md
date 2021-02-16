@@ -18,8 +18,9 @@ plexpass-updater is a bash script for updating Plex Media Server with the latest
 * Syslog integration for logging events using logger.
 
 ## 1.2) Downloading
+To download and install just clone this repository using GIT
 ```
-git clone https://github.com/frossmant/plexpass-updater # clone this repository to your server using git
+git clone https://github.com/frossmant/plexpass-updater
 ```
 
 ## 1.3) Usage
