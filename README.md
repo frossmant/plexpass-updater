@@ -32,9 +32,6 @@ vi plexpass-updater.sh
 Re
 
 PLEX_TOKEN=EnterMyPlexPassToken
-
-
-```
 ## 1.4) Usage
 
 ```
