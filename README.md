@@ -24,7 +24,7 @@ To download and install just clone this repository using GIT
 git clone https://github.com/frossmant/plexpass-updater
 ```
 ## 1.3) Configure
-* Make sure you've got your plex token key, if not check [this page](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token) out how to get it.
+* Make sure you've got your plex token key, if not check [this guide](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token) on how to get it.
 
 First edit the plexpass-updater.sh script
 ```
