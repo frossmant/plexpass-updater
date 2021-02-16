@@ -13,7 +13,9 @@
 plexpass-updater is a bash script for updating Plex Media Server with the latest pre-release versions available to plexpass members.
 
 ## 1.1) Features
-* fdsfsf
+* Download and upgrade PMS to the latest Plex Pass version using Plex Pass Token.
+* Skip upgrade of PMS if the server has active streaming sessions, can be overridden with the force option
+* Syslog integration for logging events using logger.
 
 ## 1.2) Downloading
 ```
