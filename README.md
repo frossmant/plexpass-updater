@@ -46,7 +46,6 @@ Just run the script locally on your PLEX Media Server as root to upgrade your se
 ./plexpass-updater.sh
 ```
 By default the script will skip upgrading the server if you have active streaming sessions from your server.
-
 Here are all available arguments/options for this script.
 ```
 OPTIONS:
